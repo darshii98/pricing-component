@@ -253,7 +253,7 @@ input:checked + .slider::before {
   width: 40px;
   border-radius: 50%;
   background-color: var(--primary-strong-cyan);
-  background-image: url(/images/icon-slider.svg);
+  background-image: url(./images/icon-slider.svg);
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
